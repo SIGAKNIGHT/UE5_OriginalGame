@@ -26,6 +26,10 @@
 		{
 			"Name": "LiveLink",
 			"Enabled": true
+		},
+		{
+			"Name": "MocopiLiveLink",
+			"Enabled": true
 		}
 	]
 }
